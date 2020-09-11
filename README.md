@@ -1,6 +1,6 @@
 # Learning Kotlin
 
-In this repo I learn the fundamentals of Kotlin
+In this repo I learn the fundamentals of Kotlin by following PragProg's [Programming Kotlin](https://pragprog.com/titles/vskotlin/programming-kotlin/).
 
 ### Run
 
